@@ -1,0 +1,31 @@
+.banner{
+    background: linear-gradient(180deg, #111111 0%, rgba(17, 17, 17, 0) 100%),url(img/download\ \(10\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+    height: 500px;
+}
+
+.bristi{
+    background: linear-gradient(180deg, #111111 0%, rgba(17, 17, 17, 0) 100%),url(img/h.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+    height: 600px;
+    
+}
+
+.amit{
+    background: linear-gradient(180deg, #111111 0%, rgba(17, 17, 17, 0) 100%),url(img/g.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+    height: 500px;
+    
+}
+
+
+.card:hover{
+    filter: grayscale(0);
+    transform: scale(1.3);
+}
